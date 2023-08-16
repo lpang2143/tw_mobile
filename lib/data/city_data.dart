@@ -1,0 +1,16 @@
+final List<String> cities = [
+  'Albuquerque',
+  'Atlanta',
+  'Austin',
+  'Baltimore',
+  'Big Sky',
+  'Boston',
+  'Chicago',
+  'Dallas',
+  'Denver',
+  'Houston',
+  'Los Angeles',
+  'Miami',
+  'New York',
+  'San Diego',
+];
